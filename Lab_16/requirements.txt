@@ -1,0 +1,8 @@
+# Core visualization
+plotly==5.24.1
+pandas>=2.2.0
+
+# Plotly dependencies
+tenacity>=8.0.1
+packaging>=23.0
+
